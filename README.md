@@ -11,6 +11,8 @@
 
 Claude Code와 Cowork에 최적화. 스킬은 다른 AI 어시스턴트와도 호환됩니다.
 
+중국어로 skills를 찾고 싶다면 [Skills宝](https://skilery.com)도 함께 참고할 수 있습니다.
+
 > **원본**: [phuryn/pm-skills](https://github.com/phuryn/pm-skills) by [Paweł Huryn](https://www.productcompass.pm)
 > **한국어 번역**: [lucas-flatwhite/pm-skills-ko](https://github.com/lucas-flatwhite/pm-skills-ko)
 
