@@ -5,6 +5,19 @@
 
 # PM Skills 한국어판: 더 나은 제품 의사결정을 위한 AI 운영 시스템
 
+> [!IMPORTANT]
+> **This repository is no longer updated.**
+>
+> I am always making projects that are more fun and more helpful. You can find them on [GitHub](https://github.com/lucas-flatwhite) and at [lucasflatwhite.com](https://lucasflatwhite.com).
+>
+> Thank you, always. — Lucas
+>
+> **이 저장소는 더 이상 업데이트되지 않습니다.**
+>
+> 더 재미있고 도움이 되는 프로젝트를 언제나 만들고 있습니다. [GitHub](https://github.com/lucas-flatwhite)과 [lucasflatwhite.com](https://lucasflatwhite.com)에서 만나보실 수 있습니다.
+>
+> 늘 감사드립니다. 루카스 드림.
+
 > 8개 플러그인에 걸쳐 65개의 PM 스킬과 36개의 체인 워크플로우. Claude Code, Cowork 등과 호환. 디스커버리부터 전략, 실행, 런칭, 성장까지.
 
 ![플러그인 개요](.docs/images/plugins-overview.webp)
